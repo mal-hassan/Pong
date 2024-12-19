@@ -1,0 +1,3 @@
+C:\Users\mehdi\source\repos\HelloWorld\x64\Release\raylib.dll
+C:\Users\mehdi\source\repos\HelloWorld\x64\Release\glfw3.dll
+C:\Users\mehdi\source\repos\HelloWorld\HelloWorld\x64\Release\HelloWor.307AEDF1.Up2Date
